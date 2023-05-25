@@ -18,10 +18,10 @@ Declare and initialise a variable with all the working days of the week separate
 
 Create four variables that demonstrate the following operations:
 
--   addition
--   subtraction
--   multiplication
--   division
+- addition
+- subtraction
+- multiplication
+- division
 
 ### Question 4
 
